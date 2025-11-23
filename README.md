@@ -18,7 +18,7 @@ The included Streamlit app allows users to:
 ## **Installation**
 
 1. Clone this repository:  
-   git clone \[[https://github.com/pwa209/state-capacity-framework?tab=readme-ov-file)  
+   git clone \https://github.com/pwa209/state-capacity-framework
    cd state-capacity-framework
 
 2. Install dependencies:  
